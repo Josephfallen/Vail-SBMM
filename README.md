@@ -1,5 +1,5 @@
 ### README.md
-```markdown
+
 # Skill-Based Matchmaking System Integration
 
 This document provides instructions for integrating a skill-based matchmaking system into an existing Unreal Engine project using C++. The system calculates player skill based on their performance over the last 5 matches and pairs players with similar skill levels.
